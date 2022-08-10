@@ -6,8 +6,8 @@ const socketio = require('socket.io');
 
 // Init Nexmo
 const nexmo = new Nexmo({
-  apiKey: 'd1dc6675',
-  apiSecret: '5M32s3i6wiVBN1M3'
+  apiKey: '***********',
+  apiSecret: '********'
 }, { debug: true });
 
 // Init app
